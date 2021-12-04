@@ -8,7 +8,9 @@ Early this year I have left my boba job, but during my time there, my former co-
 The data I used was from Kaggle (https://www.kaggle.com/vnxiclaire/bobabayarea). 
 
 ## Processing Steps
-Due to the immense amount of boba locations in San Francisco, the original data has over 600 locations listed, even after clearing out dupilcate franchises, it dropped down to around 437 locations. In the end, I had it cut down to 100 locations. 
+Due to the immense amount of boba locations in San Francisco, the original data has over 600 locations listed, even after clearing out dupilcate franchises, it dropped down to around 437 locations. At one point, I cut it down to the first 100, and then to the first 50 locations. However in the end, I decided to cut it down to the first 25 locations in order to read the data a lot easier. 
+
+Within the .csv file, I deleted the address, lat, and long columns since they were unnecessary data.   
 
 ## Visualization
 
