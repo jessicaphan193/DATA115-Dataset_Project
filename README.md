@@ -8,7 +8,7 @@ Early this year I have left my boba job, but during my time there, my former co-
 The data I used was from Kaggle (https://www.kaggle.com/vnxiclaire/bobabayarea). 
 
 ## Processing Steps
-Due to the immense amount of boba locations in San Francisco, the original data has over 600 locations listed, even after clearing out dupilcate franchises, it dropped down to around 437 locations. In the end, I had to cut down to  
+Due to the immense amount of boba locations in San Francisco, the original data has over 600 locations listed, even after clearing out dupilcate franchises, it dropped down to around 437 locations. In the end, I had it cut down to 100 locations. 
 
 ## Visualization
 
