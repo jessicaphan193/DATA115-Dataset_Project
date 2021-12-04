@@ -13,7 +13,7 @@ Due to the immense amount of boba locations in San Francisco, the original data 
 Within the .csv file, I deleted the address, lat, and long columns since they were unnecessary data.   
 
 ## Visualization
-
+First 25 Locations
 ![alt text](https://github.com/jessicaphan193/DATA115-Dataset_Project/blob/main/Rplot01.png)
 
 ## Analysis
