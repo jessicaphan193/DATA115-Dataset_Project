@@ -17,8 +17,12 @@ Within the .csv file, I deleted the address, lat, and long columns since they we
 ![alt text](https://github.com/jessicaphan193/DATA115-Dataset_Project/blob/main/Rplot01.png)
 
 ## Analysis
-While going through the data, one of the information crossed my mind was the popularity of each city. Within the original data of the 603 locations, it wasn't surprsing to see San Jose would rank 1st as the most populated city within the 600+ franchises. 
+While going through the data, one of the information that crossed my mind was the popularity of each city. Within the original data of the 603 locations, it wasn't surprsing to see San Jose would rank 1st as the most populated city.
 ![alt text](https://github.com/jessicaphan193/DATA115-Dataset_Project/blob/main/original_pt1.png)
 ![alt text](https://github.com/jessicaphan193/DATA115-Dataset_Project/blob/main/original_pt2.png)
 ![alt text](https://github.com/jessicaphan193/DATA115-Dataset_Project/blob/main/original_pt3.png)
 
+However when removing the duplicates, and narrowing it down to 437 locations, it was a little surprsing to see San Francisco and San Jose to be evenly matched.
+![alt text](https://github.com/jessicaphan193/DATA115-Dataset_Project/blob/main/middle.png)
+![alt text](https://github.com/jessicaphan193/DATA115-Dataset_Project/blob/main/middle2.png)
+![alt text](https://github.com/jessicaphan193/DATA115-Dataset_Project/blob/main/middle3.png)
