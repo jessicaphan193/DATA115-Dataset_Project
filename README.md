@@ -13,11 +13,9 @@ Due to the immense amount of boba locations in San Francisco, the original data 
 Within the .csv files, I kept the original data, and the other file is the one with the deleted address, lat, and long columns since they were unnecessary data.   
 
 ## Visualization
-When condensing down to the first 25 locations, all these locations are under 5 stars rating. The highest seems to be 4.5. At the same time, it's good to note that these 25 locations are start at least around 3 stars. 
+When condensing down to the first 25 locations, all these locations are under 5 stars rating. The highest seems to be 4.5. At the same time, it's good to note that these 25 locations are starting at least around 3 stars. Clearly the graph tells me #20 and #22 stands out as the lowest from the first 25, rating at 3 stars each. 
 
 ![alt text](https://github.com/jessicaphan193/DATA115-Dataset_Project/blob/main/Rplot01.png)
-
-![alt text](https://github.com/jessicaphan193/DATA115-Dataset_Project/blob/main/25_loc.png)
 
 
 ## Analysis
