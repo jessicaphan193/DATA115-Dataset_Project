@@ -16,6 +16,9 @@ Within the .csv files, I kept the original data, and the other file is the one w
 
 ![alt text](https://github.com/jessicaphan193/DATA115-Dataset_Project/blob/main/Rplot01.png)
 
+![alt text](https://github.com/jessicaphan193/DATA115-Dataset_Project/blob/main/25_loc.png)
+
+
 ## Analysis
 While going through the data, one of the information that crossed my mind was the popularity of each city. Within the original data of the 603 locations, it wasn't surprsing to see San Jose would rank 1st as the most populated city.
 
