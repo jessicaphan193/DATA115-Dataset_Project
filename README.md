@@ -17,5 +17,5 @@ Within the .csv file, I deleted the address, lat, and long columns since they we
 ![alt text](https://github.com/jessicaphan193/DATA115-Dataset_Project/blob/main/Rplot01.png)
 
 ## Analysis
-
+While going through the data, one of the information crossed my mind was the popularity of the location. 
 
