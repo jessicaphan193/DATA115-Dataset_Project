@@ -12,7 +12,7 @@ Due to the immense amount of boba locations in San Francisco, the original data 
 
 ## Visualization
 
-
+![alt text](https://github.com/jessicaphan193/DATA115-Dataset_Project/blob/main/Rplot01.png)
 
 ## Analysis
 
